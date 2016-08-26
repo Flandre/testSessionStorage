@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<a href="testxx.html">aaa</a>
+<script>
+  if (!window.sessionStorage.getItem('pageCount')) {
+    window.sessionStorage.setItem('pageCount', 1)
+  } else {
+    window.sessionStorage.setItem('pageCount', parseInt(window.sessionStorage.getItem('pageCount')) + 1)
+  }
+  alert(window.sessionStorage.getItem('pageCount'));
+</script>
+</body>
+</html>
