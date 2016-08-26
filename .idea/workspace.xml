@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ea284c0-1579-4461-a0fb-49948832458a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testxx.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/params.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/github-light.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="4ea284c0-1579-4461-a0fb-49948832458a" name="Default" comment="" />
     <ignored path="testSessionStorage.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -311,15 +296,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1472180914705</updated>
-      <workItem from="1472180916018" duration="1150000" />
+      <workItem from="1472180916018" duration="1974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1150000" />
+    <option name="totallyTimeSpent" value="1974000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1084" extended-state="0" />
+    <frame x="-8" y="-8" width="1874" height="1084" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
